@@ -1,0 +1,12 @@
+{
+  "name": "pi_info_beocreate",
+  "version": "1.0.0",
+  "description": "A simple plugin for displaying Raspberry Pi 4 information",
+  "main": "index.js",
+  "dependencies": {
+    "socket.io": "^4.3.2"
+  },
+  "author": "LopeKinz",
+  "license": "MIT"
+}
+
